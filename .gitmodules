@@ -1,6 +1,6 @@
 [submodule "submodules/diff-gaussian-rasterization"]
-	path = submodules/diff-gaussian-rasterization
-	url = git@github.com:Chuan-10/diff-gaussian-rasterization.git
+    path = submodules/diff-gaussian-rasterization
+    url = https://github.com/Chuan-10/diff-gaussian-rasterization.git
 [submodule "submodules/simple-knn"]
-	path = submodules/simple-knn
-	url = git@github.com:Chuan-10/simple-knn.git
+    path = submodules/simple-knn
+    url = https://github.com/Chuan-10/simple-knn.git
